@@ -1,0 +1,42 @@
+* {
+    margin:0;
+}
+/* Start CSS code for Header */
+ul{
+    padding: 0;
+    margin: 0;
+}
+.inner_header>img {
+    margin-right: 41px;
+}
+
+.inner_header>nav>ul {
+    list-style: none;
+    display:flex;
+}
+.inner_header {
+    display: flex;
+    padding: 24px 0px 7px 14px;
+}
+header {
+    background-color: black;
+    color:white;
+}
+.inner_header>nav {
+    display: flex;
+    align-items: center;
+    font-size: 35px;
+}
+.inner_header>nav>ul>li{
+    margin-right: 28px;
+}
+/* End CSS code for Header */
+
+/* Star CSS code for MAIN */
+
+main {
+    margin: 0;
+    padding: 0;
+}
+
+/* End CSS code for MAIN */
